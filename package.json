@@ -1,0 +1,71 @@
+{
+    "name": "themes-falcon-vscode",
+    "version": "1.0.0",
+    "displayName": "Falcon Relaxing-Eyes Themes",
+    "homepage": "https://github.com/panxiaoan/falcon-vscode-themes",
+    "description": "A gentle, eye-friendly theme to protect your eyesight for VS Code",
+    "publisher": "panxiaoan",
+    "license": "MIT",
+    "scripts": {
+        "build": "node ./scripts/build.js",
+        "lint": "node ./scripts/lint.js",
+        "package": "vsce package -o ./bin/themes-falcon-vscode.vsix",
+        "vscode:prepublish": "npm run build",
+        "vsce-publish": "vsce publish"
+    },
+    "maintainers": [
+        "Xiaoan Pan"
+    ],
+    "contributors": [
+        "Xiaoan Pan"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/panxiaoan/falcon-vscode-themes.git"
+    },
+    "bugs": {
+        "url": "https://github.com/panxiaoan/falcon-vscode-themes/issues"
+    },
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "falcon",
+        "light",
+        "theme",
+        "color-theme",
+        "celadon",
+        "pink",
+        "relaxing-eyes",
+        "protect-eyesight",
+        "eyesight-protection"
+    ],
+    "icon": "logo.jpg",
+    "galleryBanner": {
+        "color": "#e4ecef",
+        "theme": "light"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Falcon Light Celadon",
+                "uiTheme": "vs",
+                "path": "./theme/light/celadon.json"
+            },
+            {
+                "label": "Falcon Light Pink",
+                "uiTheme": "vs",
+                "path": "./theme/light/pink.json"
+            }
+        ]
+    },
+    "devDependencies": {
+        "js-yaml": "^4.1.0",
+        "prettier": "^3.0.0",
+        "tinycolor2": "^1.6.0",
+        "vsce": "^2.15.0"
+    }
+}
