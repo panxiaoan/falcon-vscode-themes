@@ -9,7 +9,7 @@
     "scripts": {
         "build": "node ./scripts/build.js",
         "lint": "node ./scripts/lint.js",
-        "package": "vsce package -o ./bin/themes-falcon-vscode.vsix",
+        "package": "vsce package -o themes-falcon-vscode.vsix",
         "vscode:prepublish": "npm run build",
         "vsce-publish": "vsce publish"
     },
