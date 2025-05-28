@@ -26,7 +26,7 @@ vsce login panxiaoan
 vsce publish
 
 # 更新版本，执行命令后会自动更新 package.json 中的版本号
-vsce publish major | minor | path
+vsce publish major | minor | patch
 ```
 
 #### Activating theme
