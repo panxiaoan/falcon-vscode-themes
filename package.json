@@ -43,17 +43,27 @@
         "protect-eyesight",
         "eyesight-protection"
     ],
-    "icon": "logo.jpg",
+    "icon": "icon.png",
     "galleryBanner": {
         "color": "#e4ecef",
         "theme": "light"
     },
+    "previewImages": [
+        "assets/light-green.jpg",
+        "assets/light-celadon.jpg",
+        "assets/light-pink.jpg"
+    ],
     "contributes": {
         "themes": [
             {
                 "label": "Falcon Light Celadon",
                 "uiTheme": "vs",
                 "path": "./theme/light/celadon.json"
+            },
+            {
+                "label": "Falcon Light Green",
+                "uiTheme": "vs",
+                "path": "./theme/light/green.json"
             },
             {
                 "label": "Falcon Light Pink",

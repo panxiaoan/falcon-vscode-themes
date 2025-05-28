@@ -3,7 +3,7 @@
 > A gentle, eye-friendly theme to protect your eyesight for [Visual Studio Code](https://code.visualstudio.com/) <br/>
 > 一个温和的，对眼睛友好，保护视力的 VS Code 主题
 
-<img src="./assets/home.png" alt="Falcon VS Code Themes" style="border: 1px solid #CED0D6;">
+<img src="./assets/light-green.jpg" alt="Falcon VS Code Themes" style="border: 1px solid #CED0D6;">
 
 If you're working in a bright environment for extended periods, a light-colored theme is usually better.
 <br/>
@@ -16,10 +16,10 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 
 **Features:**
 
-- Well-balanced colors, easy on eyes
-- Better syntax highlight
-- Unified and clean themes style
-- Lightweight and low impact on `VS Code` performance
+- Gentle, eye-friendly colors to reduce strain
+- Improved syntax highlighting for clarity
+- Consistent and clean theme style
+- Lightweight design with minimal impact on - performance
 
 **Falcon Relaxing-Eyes Light themes (for bright environments):**
 
@@ -35,8 +35,6 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 
 [VS Code Marketplace](https://marketplace.visualstudio.com/VSCode)
 
-<img src="./assets/marketplace.jpg" alt="marketplace" style="border: 1px solid #CED0D6;">
-
 ## Many thanks the following projects:
 
 1. [Dracula Theme](https://draculatheme.com/visual-studio-code)
@@ -49,9 +47,15 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 
 1. Relax Light Celadon
 
-    <img src="./assets/relax-light-celadon.jpg" alt="Relax Light Celadon" style="border: 1px solid #CED0D6;">
+    <img src="./assets/light-celadon.jpg" alt="Falcon Light Celadon" style="border: 1px solid #CED0D6;">
 
-2. Relax Light Pink
+2. Relax Light Green
+
+    <img src="./assets/light-green.jpg" alt="Falcon Light Green" style="border: 1px solid #CED0D6;">
+
+3. Relax Light Pink
+
+    <img src="./assets/light-pink.jpg" alt="Falcon Light Pink" style="border: 1px solid #CED0D6;">
 
 ## License
 

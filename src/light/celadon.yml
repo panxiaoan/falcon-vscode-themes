@@ -209,7 +209,7 @@ colors:
   editor.lineHighlightBackground: *LineHighlight # Background color for the highlight of line at the cursor position
   editor.lineHighlightBorder    : *LineHighlight # Background color for the border around the line at the cursor position
 
-  editorLink.activeForeground    : *MATCHED_INDENT_GUIDE # Color of active links
+  editorLink.activeForeground    : *BLUE # Color of active links
   editor.rangeHighlightBackground: !alpha [*BLUE, 15] # Background color of highlighted ranges, like by Quick Open and Find features
 
   editor.snippetTabstopHighlightBackground     : *BG # Highlight background color of a snippet tabstop
@@ -238,7 +238,7 @@ colors:
   editorBracketHighlight.foreground6                 : *ORANGE # Color of sixth pair of brackets
   editorBracketHighlight.unexpectedBracket.foreground: *RED # Color of bracket matching error
 
-  editorOverviewRuler.border                       : *BGDarker # Color of the overview ruler border
+  editorOverviewRuler.border                       : *BORDER # Color of the overview ruler border
   editorOverviewRuler.findMatchForeground          :
   editorOverviewRuler.rangeHighlightForeground     :
   editorOverviewRuler.selectionHighlightForeground : *ORANGE
@@ -257,7 +257,7 @@ colors:
   editorWarning.border    : # Border color of warning squigglies in the editor
 
   editorGutter.background        : # Background color of the editor gutter
-  editorGutter.border            : *INDENT_GUIDE # Border color of the editor gutter
+  editorGutter.border            : *BORDER # Border color of the editor gutter
   editorGutter.modifiedBackground: *BLUE # Editor gutter background color for lines that are modified
   editorGutter.addedBackground   : *GREEN # Editor gutter background color for lines that are added
   editorGutter.deletedBackground : *RED # Editor gutter background color for lines that are deleted
@@ -339,7 +339,7 @@ colors:
   statusBarItem.hoverBackground         : # Status Bar item background color when hovering
   statusBarItem.prominentBackground     : *RED # Status Bar prominent items background color. Prominent items stand out from other Status Bar entries to indicate importance
   statusBarItem.prominentHoverBackground: *ORANGE # Status Bar prominent items background color when hovering. Prominent items stand out from other Status Bar entries to indicate importance
-  statusBarItem.remoteForeground        : *BG # Background color for the remote indicator on the status bar
+  statusBarItem.remoteForeground        : *WHITE # Background color for the remote indicator on the status bar
   statusBarItem.remoteBackground        : !alpha [*GREEN, 90] # Foreground color for the remote indicator on the status bar
   statusBar.border                      : *BORDER
 

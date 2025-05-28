@@ -73,7 +73,7 @@ module.exports = async () => {
         // 确保子目录存在
         await mkdir(dirname(jsonPath), { recursive: true });
         console.log(
-            `Generating theme: ${relative(projectRoot, yamlPath)} -> ${relative(projectRoot, jsonPath)}`
+            `Generating theme: ${relative(projectRoot, yamlPath)} -> ${relative(projectRoot, jsonPath)}\n`
         );
         await generateTheme(yamlPath, jsonPath);
     }

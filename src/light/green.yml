@@ -1,61 +1,60 @@
 $schema: vscode://schemas/color-theme
-name: falcon-light-pink-theme
+name: falcon-light-green-theme
 author: Xiaoan
 maintainers:
   - Xiaoan Pan
-semanticClass: theme.pink
+semanticClass: theme.green
 semanticHighlighting: true
-pink:
+green:
   base:
-    - &BG        '#FDF5F6'
-    - &FG        '#383A42'
-    - &SELECTION '#FFD6E0'
-    - &COMMENT   '#9DA0A8'
-    - &CYAN      '#007297'
-    - &PURPLE    '#643CB8'
-    - &ORANGE    '#8D4532'
-    - &KEYWORD   '#B7447B'
-    - &GREEN     '#067D17'
-    - &BLUE      '#174ad4'
-    - &RED       '#FF5555'
+    - &BG '#E0F2F1'
+    - &FG '#383A42'
+    - &SELECTION '#AFDBB8'
+    - &COMMENT '#9DA0A8'
+    - &CYAN '#007297'
+    - &PURPLE '#643CB8'
+    - &ORANGE '#8D4532'
+    - &GREEN '#067D17'
+    - &BLUE '#174ad4'
+    - &RED '#FF5555'
   ansi:
-    - &COLOR0        '#383A42'
-    - &COLOR1        '#FF5555'
-    - &COLOR2        '#383A42'
-    - &COLOR3        '#dfae64'
-    - &COLOR4        '#871790'
-    - &COLOR5        '#FF79C6'
-    - &COLOR6        '#007297'
-    - &COLOR7        '#F8F8F2'
-    - &COLOR8        '#6272A4'
-    - &COLOR9        '#FF5555'
-    - &COLOR10       '#69FF94'
-    - &COLOR11       '#FFFFA5'
-    - &COLOR12       '#8F69D4'
-    - &COLOR13       '#FF79C6'
-    - &COLOR14       '#007297'
-    - &COLOR15       '#FFFFFF'
+    - &COLOR0 '#383A42'
+    - &COLOR1 '#FF5555'
+    - &COLOR2 '#383A42'
+    - &COLOR3 '#dfae64'
+    - &COLOR4 '#871790'
+    - &COLOR5 '#FF79C6'
+    - &COLOR6 '#007297'
+    - &COLOR7 '#F8F8F2'
+    - &COLOR8 '#6272A4'
+    - &COLOR9 '#FF5555'
+    - &COLOR10 '#2fc864'
+    - &COLOR11 '#ecc27d'
+    - &COLOR12 '#643CB8'
+    - &COLOR13 '#FF79C6'
+    - &COLOR14 '#007297'
+    - &COLOR15 '#FFFFFF'
   brightOther:
     # Temporary (awaiting fix)
-    - &TEMP_QUOTES          '#067D17'
+    - &TEMP_QUOTES '#067D17'
     - &TEMP_PROPERTY_QUOTES '#067D17'
   other:
-    - &LineHighlight '#FFE6E7'
-    - &NonText       '#FFFFFF1A'
-    - &WHITE         '#FFFFFF'
-    - &TAB_DROP_BG   '#F7F8FA70'
+    - &LineHighlight '#F7F8FA'
+    - &NonText '#FFFFFF1A'
+    - &WHITE '#FFFFFF'
+    - &TAB_DROP_BG '#cedee2'
     # UI Variants
-    - &BGLighter     '#FDF5F6'
-    - &BGLight       '#FDF5F6' # HSV (230   , 25.71, 27.45)
-    - &BGDark        '#FDF5F6' # HSV (234.55, 25   , 17.25)
-    - &BGDarker      '#FFD6E0' # HSV (234.55, 25   , 13   )
-    - &BORDER        '#f3ebec'
-    - &STATIC        '#871790'
-    - &ANNOTATION    '#9e880d' # HSV (234.55, 25   , 13   )
-    - &INDENT_GUIDE '#f1edef'
-    - &MATCHED_INDENT_GUIDE '#FFD6E0'
+    - &BGLighter '#E0F2F1'
+    - &BGLight '#E0F2F1' # HSV (230   , 25.71, 27.45)
+    - &BGDark '#E0F2F1' # HSV (234.55, 25   , 17.25)
+    - &BGDarker '#c6e1e0' # HSV (234.55, 25   , 13   )
+    - &BORDER '#d6e8e7'
+    - &STATIC '#871790'
+    - &ANNOTATION '#9e880d'
+    - &INDENT_GUIDE '#dae2e5'
+    - &MATCHED_INDENT_GUIDE '#AFDBB8'
+    - &SELECTED '#c7dae1'
     - &LINE_NUMBER '#aeb3c2'
-    - &SELECTED '#FFD6E0'
 
 # User Interface (more info: https://code.visualstudio.com/docs/getstarted/theme-color-reference)
 colors:
@@ -153,9 +152,9 @@ colors:
   activityBar.dropBackground    : # Drag and drop feedback color for the Activity Bar items
   activityBar.foreground        : *FG # Activity bar foreground color (for example used for the icons)
   activityBar.border            : *BORDER # Activity Bar border color with the Side Bar
-  activityBar.activeBorder      : *KEYWORD # Activity Bar indicator color
+  activityBar.activeBorder      : *GREEN # Activity Bar indicator color
   activityBar.activeBackground  : *BGDarker # Activity Bar indicator background color
-  activityBarBadge.background   : !alpha [*KEYWORD, 90] # Activity notification badge background color
+  activityBarBadge.background   : !alpha [*GREEN, 80] # Activity notification badge background color
   activityBarBadge.foreground   : *WHITE # Activity notification badge foreground color
 
   # Side Bar
@@ -341,7 +340,7 @@ colors:
   statusBarItem.prominentBackground     : *RED # Status Bar prominent items background color. Prominent items stand out from other Status Bar entries to indicate importance
   statusBarItem.prominentHoverBackground: *ORANGE # Status Bar prominent items background color when hovering. Prominent items stand out from other Status Bar entries to indicate importance
   statusBarItem.remoteForeground        : *WHITE # Background color for the remote indicator on the status bar
-  statusBarItem.remoteBackground        : *KEYWORD # Foreground color for the remote indicator on the status bar
+  statusBarItem.remoteBackground        : !alpha [*GREEN, 90] # Foreground color for the remote indicator on the status bar
   statusBar.border                      : *BORDER
 
   # Title Bar Colors (MacOS Only)
@@ -588,7 +587,7 @@ tokenColors:
       - variable.other.readwrite.instance.ruby # ruby's "@" instance symbol
       - variable.parameter.function.language.special # Special words as parameters
     settings:
-      foreground: *KEYWORD
+      foreground: *GREEN
       fontStyle: normal
 
   - name: Inherited classes
@@ -617,7 +616,7 @@ tokenColors:
       - comment.block.documentation keyword
       - comment.block.documentation storage.type.class
     settings:
-      foreground: *KEYWORD
+      foreground: *GREEN
 
   - name: JSDoc-style types
     scope:
@@ -750,7 +749,7 @@ tokenColors:
       - keyword
       - punctuation.definition.keyword
     settings:
-      foreground: *KEYWORD
+      foreground: *GREEN
 
   - name: Keyword "new"
     scope:
@@ -763,7 +762,7 @@ tokenColors:
     scope:
       - meta.selector
     settings:
-      foreground: *KEYWORD
+      foreground: *GREEN
 
   # =============================================================================
   # Language Built-ins
@@ -951,7 +950,7 @@ tokenColors:
     scope:
       - storage.modifier
     settings:
-      foreground: *KEYWORD
+      foreground: *GREEN
 
   # =============================================================================
   # RegExp
