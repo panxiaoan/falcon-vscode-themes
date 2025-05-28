@@ -46,12 +46,6 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 1. [Gitee](https://gitee.com/panxiaoan/falcon-vscode-themes)
 2. [Github](https://github.com/panxiaoan/falcon-vscode-themes)
 
-## Jetbrains IDE Theme
-
-另外，使用 Jetbrains IDE 的用户，也可以体验同款主题
-
-请前往 Jetbrains Marketplace [下载](https://plugins.jetbrains.com/plugin/26026-falcon-relax-eyes-light-theme)
-
 ## Screenshot
 
 1. Relax Light Celadon
@@ -69,3 +63,9 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 ## License
 
 [MIT License](./LICENSE.txt)
+
+## Jetbrains IDE Theme
+
+另外，使用 Jetbrains IDE 的用户，也可以体验同款主题
+
+请前往 Jetbrains Marketplace [下载](https://plugins.jetbrains.com/plugin/26026-falcon-relax-eyes-light-theme)
