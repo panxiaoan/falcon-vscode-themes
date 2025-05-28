@@ -20,7 +20,7 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 - Gentle, eye-friendly colors to reduce strain
 - Improved syntax highlighting for clarity
 - Consistent and clean theme style
-- Lightweight design with minimal impact on - performance
+- Lightweight design with minimal impact on VSCode - performance
 
 **Falcon Relaxing-Eyes Light themes (for bright environments):**
 
