@@ -14,8 +14,19 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 ```bash
 git clone https://github.com/panxiaoan/falcon-vscode-themes.git
 cd ./falcon-vscode-themes
+
+# 安装依赖
 npm install
+
+# 编译、打包、本地安装
 npx vsce package && code --install-extension *.vsix
+
+# 发布
+vsce login panxiaoan
+vsce publish
+
+# 更新版本，执行命令后会自动更新 package.json 中的版本号
+vsce publish major | minor | path
 ```
 
 #### Activating theme

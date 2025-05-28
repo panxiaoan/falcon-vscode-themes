@@ -4,7 +4,7 @@
 > 一个温和的，对眼睛友好，保护视力的 VS Code 主题
 
 <br/>
-<img src="https://gitee.com/panxiaoan/falcon-vscode-themes/raw/main/assets/light-celadon.jpg" alt="Falcon VS Code Themes" style="border: 1px solid #CED0D6;">
+<img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/light-celadon.jpg" alt="Falcon VS Code Themes" style="border: 1px solid #CED0D6;">
 
 If you're working in a bright environment for extended periods, a light-colored theme is usually better.
 <br/>
@@ -13,7 +13,7 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 在明亮的工作环境中，长时间使用 VS Code，建议使用浅色主题，减少视觉疲劳。<br/>
 
 > <a href="https://ux.stackexchange.com/questions/53264/dark-or-white-color-theme-is-better-for-the-eyes">Dark or white color theme is better for the eyes?</a>
-<img src="https://gitee.com/panxiaoan/falcon-vscode-themes/raw/main/assets/about.jpg" alt="Relax Green Light" style="border: 1px solid #CED0D6;">
+<img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/about.jpg" alt="Relax Green Light" style="border: 1px solid #CED0D6;">
 
 **Features:**
 
@@ -51,15 +51,15 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 
 1. Relax Light Celadon
 
-    <img src="https://gitee.com/panxiaoan/falcon-vscode-themes/raw/main/assets/light-celadon.jpg" alt="Falcon Light Celadon" style="border: 1px solid #CED0D6;">
+    <img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/light-celadon.jpg" alt="Falcon Light Celadon" style="border: 1px solid #CED0D6;">
 
 2. Relax Light Green
 
-    <img src="https://gitee.com/panxiaoan/falcon-vscode-themes/raw/main/assets/light-green.jpg" alt="Falcon Light Green" style="border: 1px solid #CED0D6;">
+    <img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/light-green.jpg" alt="Falcon Light Green" style="border: 1px solid #CED0D6;">
 
 3. Relax Light Pink
 
-    <img src="https://gitee.com/panxiaoan/falcon-vscode-themes/raw/main/assets/light-pink.jpg" alt="Falcon Light Pink" style="border: 1px solid #CED0D6;">
+    <img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/light-pink.jpg" alt="Falcon Light Pink" style="border: 1px solid #CED0D6;">
 
 ## License
 
