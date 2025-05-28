@@ -41,7 +41,8 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 
 ## Source Code
 
-1. [Github](https://github.com/panxiaoan/falcon-vscode-themes)
+1. [Gitee](https://gitee.com/panxiaoan/falcon-vscode-themes)
+2. [Github](https://github.com/panxiaoan/falcon-vscode-themes)
 
 ## Screenshot
 
