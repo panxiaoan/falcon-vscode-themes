@@ -14,7 +14,7 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 > <a href="https://ux.stackexchange.com/questions/53264/dark-or-white-color-theme-is-better-for-the-eyes">Dark or white color theme is better for the eyes?</a>
 <img src="./assets/about.jpg" alt="Relax Green Light" style="border: 1px solid #CED0D6;">
 
-**Basic features in Falcon Relaxing-Eyes Themes:**
+**Features:**
 
 - Well-balanced colors, easy on eyes
 - Better syntax highlight
@@ -37,31 +37,22 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 
 <img src="./assets/marketplace.jpg" alt="marketplace" style="border: 1px solid #CED0D6;">
 
-## Thanks
+## Many thanks the following projects:
 
 1. [Dracula Theme](https://draculatheme.com/visual-studio-code)
 
 ## Source Code
 
-1. [Gitee](https://gitee.com/panxiaoan/falcon-jetbrains-themes)
-2. [Github](https://github.com/panxiaoan/falcon-jetbrains-themes)
+1. [Github](https://github.com/panxiaoan/falcon-vscode-themes)
 
-## Falcon Relax Light Theme Screenshot
+## Screenshot
 
-4. Relax Light Celadon
+1. Relax Light Celadon
 
     <img src="./assets/relax-light-celadon.jpg" alt="Relax Light Celadon" style="border: 1px solid #CED0D6;">
 
-5. Relax Light Pink
-
-## Falcon Relax Dark Theme Screenshot
-
-1. Relax Dark
+2. Relax Light Pink
 
 ## License
 
 [MIT License](./LICENSE.txt)
-
-> Keep It Simple and Stupid.
-
-**Enjoy!**
