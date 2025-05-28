@@ -3,6 +3,7 @@
 > A gentle, eye-friendly theme to protect your eyesight for [Visual Studio Code](https://code.visualstudio.com/) <br/>
 > 一个温和的，对眼睛友好，保护视力的 VS Code 主题
 
+<br/>
 <img src="https://gitee.com/panxiaoan/falcon-vscode-themes/raw/main/assets/light-celadon.jpg" alt="Falcon VS Code Themes" style="border: 1px solid #CED0D6;">
 
 If you're working in a bright environment for extended periods, a light-colored theme is usually better.
@@ -23,6 +24,7 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 
 **Falcon Relaxing-Eyes Light themes (for bright environments):**
 
+- Falcon Light Green
 - Falcon Light Celadon
 - Falcon Light Pink
 - There is more coming soon!!!
@@ -43,6 +45,12 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 
 1. [Gitee](https://gitee.com/panxiaoan/falcon-vscode-themes)
 2. [Github](https://github.com/panxiaoan/falcon-vscode-themes)
+
+## Jetbrains IDE Theme
+
+另外，使用 Jetbrains IDE 的用户，也可以体验同款主题
+
+请前往 Jetbrains Marketplace [下载](https://plugins.jetbrains.com/plugin/26026-falcon-relax-eyes-light-theme)
 
 ## Screenshot
 
