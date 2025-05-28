@@ -35,7 +35,8 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 
 <a href="https://github.com/panxiaoan/falcon-vscode-themes/issues">Report an issue</a>
 
-[VS Code Marketplace](https://marketplace.visualstudio.com/VSCode)
+<strong>从 VS Code 插件市场下载该主题：</strong>
+[VS Code Marketplace](https://marketplace.visualstudio.com/publishers/panxiaoan)
 
 ## Many thanks the following projects:
 
