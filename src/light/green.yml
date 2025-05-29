@@ -150,7 +150,7 @@ colors:
   activityBar.background        : *BGLight # Activity Bar background color
   activityBar.inactiveForeground: *COMMENT # Activity bar item foreground color when it is inactive
   activityBar.dropBackground    : # Drag and drop feedback color for the Activity Bar items
-  activityBar.foreground        : *FG # Activity bar foreground color (for example used for the icons)
+  activityBar.foreground        : *GREEN # Activity bar foreground color (for example used for the icons)
   activityBar.border            : *BORDER # Activity Bar border color with the Side Bar
   activityBar.activeBorder      : *GREEN # Activity Bar indicator color
   activityBar.activeBackground  : *BGDarker # Activity Bar indicator background color
@@ -178,7 +178,7 @@ colors:
   tab.activeForeground           : *FG # Active Tab foreground color in an active group
   tab.border                     : *BORDER # Border to separate Tabs from each other
   tab.activeBorderTop            : *GREEN # A border drawn to the top of the active tab
-  tab.activeBorder               : # A border drawn to the bottom of the active tab
+  tab.activeBorder               :  # A border drawn to the bottom of the active tab
   tab.unfocusedActiveBorder      : # A border drawn to the bottom of the active tab in an editor group that is not focused
   tab.inactiveBackground         : *BGDark # Inactive Tab background color
   tab.inactiveForeground         : *COMMENT # Inactive Tab foreground color in an active group
