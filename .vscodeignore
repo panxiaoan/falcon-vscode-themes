@@ -11,4 +11,3 @@ generate.js
 jsconfig.json
 known_issues.md
 *.vsix
-media/**
