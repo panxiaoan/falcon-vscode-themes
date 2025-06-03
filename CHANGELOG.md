@@ -1,9 +1,10 @@
 # Changelog
 
-## 1.0.2 (？？？)
+## 1.1.0 (20250603)
 
-- Improve: 改善 activityBar.foreground
+- Add: Falcon Light Yellow Theme
 - Add: Windows Screenshot
+- Improve: 改善 activityBar.foreground
 
 ## 1.0.0 (250528) → 👦🏻 👧🏻 Happy Children's Day! 🐲 Healthy Dragon Boat Festival!
 

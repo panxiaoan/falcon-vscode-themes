@@ -42,6 +42,7 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 
 1. [Dracula Theme](https://draculatheme.com/visual-studio-code)
 2. [Uloco](https://github.com/uloco/syntax-highlighting-samples)
+3. [Preview VSCode Themes](https://vscodethemes.com)
 
 ## Source Code
 
