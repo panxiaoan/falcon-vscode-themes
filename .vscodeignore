@@ -12,3 +12,4 @@ jsconfig.json
 known_issues.md
 *.vsix
 testcase/**
+*.sh

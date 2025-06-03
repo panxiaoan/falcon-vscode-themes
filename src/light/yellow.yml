@@ -8,7 +8,7 @@ semanticHighlighting: true
 pink:
   base:
     - &BG        '#FFFBE8'
-    - &BGER        '#917800'
+    - &BGER        '#B76F22'
     - &FG        '#383A42'
     - &SELECTION '#CCC8B6'
     - &COMMENT   '#9DA0A8'
