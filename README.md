@@ -3,6 +3,10 @@
 > A gentle, eye-friendly theme to protect your eyesight for [Visual Studio Code](https://code.visualstudio.com/) <br/>
 > 一个温和的，对眼睛友好，保护视力的 VS Code 主题
 
+
+<strong>从 VS Code 插件市场下载该主题：</strong>
+[VS Code Marketplace](https://marketplace.visualstudio.com/publishers/panxiaoan)
+
 <br/>
 <img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/light-celadon.jpg" alt="Falcon VS Code Themes" style="border: 1px solid #CED0D6;">
 
@@ -24,19 +28,18 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 
 **Falcon Relaxing-Eyes Light themes (for bright environments):**
 
-- Falcon Light Green
-- Falcon Light Celadon
-- Falcon Light Pink
-- There is more coming soon!!!
+- [Falcon Light Green](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-green)
+- [Falcon Light Celadon](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-celadon)
+- [Falcon Light Pink](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-pink)
+- [Falcon Light Yellow](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-yellow)
+
+There is more coming soooooon!!!
 
 **Falcon Relaxing-Eyes Dark themes (for low-light environments):**
 
-- There is more coming soon!!!
+There is more coming soooooon!!!
 
 <a href="https://github.com/panxiaoan/falcon-vscode-themes/issues">Report an issue</a>
-
-<strong>从 VS Code 插件市场下载该主题：</strong>
-[VS Code Marketplace](https://marketplace.visualstudio.com/publishers/panxiaoan)
 
 ## Many thanks the following projects:
 
@@ -56,17 +59,21 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 
 ## Screenshot
 
-1. Relax Light Celadon
+1. Falcon Light Celadon
 
     <img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/light-celadon.jpg" alt="Falcon Light Celadon" style="border: 1px solid #CED0D6;">
 
-2. Relax Light Green
+2. Falcon Light Green
 
     <img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/light-green.jpg" alt="Falcon Light Green" style="border: 1px solid #CED0D6;">
 
-3. Relax Light Pink
+3. Falcon Light Pink
 
     <img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/light-pink.jpg" alt="Falcon Light Pink" style="border: 1px solid #CED0D6;">
+
+4. Falcon Light Yellow
+
+    <img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/light-yellow.jpg" alt="Falcon Light Yellow" style="border: 1px solid #CED0D6;">
 
 ## License
 
