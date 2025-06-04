@@ -40,8 +40,6 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 - [Falcon Dark Green](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-dark-green)
 - There is more coming soooooon!!!
 
-<a href="https://github.com/panxiaoan/falcon-vscode-themes/issues">Report an issue</a>
-
 ## Many thanks the following projects:
 
 - [Dracula Theme](https://draculatheme.com/visual-studio-code)
