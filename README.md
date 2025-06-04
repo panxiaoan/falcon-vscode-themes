@@ -32,10 +32,13 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 - [Falcon Light Celadon](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-celadon)
 - [Falcon Light Pink](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-pink)
 - [Falcon Light Yellow](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-yellow)
+- [Falcon Light Grey](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-grey)
 
 There is more coming soooooon!!!
 
 **Falcon Relaxing-Eyes Dark themes (for low-light environments):**
+
+- [Falcon Dark Green](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-dark-green)
 
 There is more coming soooooon!!!
 
@@ -57,7 +60,7 @@ There is more coming soooooon!!!
 1. 因为主题颜色较浅，如果想要更清晰的显示效果，建议在 VS Code 设置更清晰的字体（如 `JetBrains Mono`, `Consolas`, `Fira Code`），并适当调大字号。
 2. 如果 Windows 用户，请开启 Windows ClearType，并优化显示器设置：在 Windows 设置里搜索 `ClearType`，开启并调优；同时调整显示器对比度和亮度。
 
-## Screenshot
+## Screenshot (Falcon Light Themes)
 
 1. Falcon Light Celadon
 
@@ -74,6 +77,16 @@ There is more coming soooooon!!!
 4. Falcon Light Yellow
 
     <img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/light-yellow.jpg" alt="Falcon Light Yellow" style="border: 1px solid #CED0D6;">
+
+5. Falcon Light Grey
+
+    <img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/light-grey.jpg" alt="Falcon Light Grey" style="border: 1px solid #CED0D6;">
+
+## Screenshot (Falcon Dark Themes)
+
+1. Falcon Dark Green
+
+    <img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/dark-green.jpg" alt="Falcon Dark Green" style="border: 1px solid #CED0D6;">
 
 ## License
 

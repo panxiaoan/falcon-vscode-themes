@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.0.0 (20250606)
+
+- Add: Falcon Light Grey Theme
+- Add: Falcon Dark Green Theme
+
 ## 1.1.0 (20250603)
 
 - Add: Falcon Light Yellow Theme

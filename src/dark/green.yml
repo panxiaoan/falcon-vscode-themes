@@ -1,62 +1,62 @@
 $schema: vscode://schemas/color-theme
-name: falcon-light-yellow-theme
+name: falcon-dark-green-theme
 author: Xiaoan
 maintainers:
   - Xiaoan Pan
-semanticClass: theme.yellow
+semanticClass: theme.dark.green
 semanticHighlighting: true
-yellow:
+green:
   base:
-    - &BG        '#FFFBE8'
-    - &BGER        '#917800'
-    - &FG        '#383A42'
-    - &SELECTION '#CCC8B6'
-    - &COMMENT   '#9DA0A8'
-    - &CYAN      '#007297'
-    - &PURPLE    '#643CB8'
-    - &ORANGE    '#8D4532'
-    - &GREEN     '#067D17'
-    - &BLUE      '#174ad4'
-    - &RED       '#FF5555'
-    - &KEYWORD   '#067D17'
+    - &BG        '#002F38'
+    - &FG        '#BBBBBB'
+    - &SELECTION '#305862'
+    - &COMMENT   '#8092AB'
+    - &CYAN      '#65BCD9'
+    - &PURPLE    '#9876AA'
+    - &ORANGE    '#c58564'
+    - &KEYWORD   '#1D9A62'
+    - &GREEN     '#1D9A62'
+    - &BLUE      '#00b9af'
+    - &RED       '#ff5555'
+    - &SHADOW    '#19273D'
   ansi:
-    - &COLOR0        '#383A42'
+    - &COLOR0        '#19273D'
     - &COLOR1        '#FF5555'
-    - &COLOR2        '#383A42'
+    - &COLOR2        '#19273D'
     - &COLOR3        '#dfae64'
-    - &COLOR4        '#871790'
+    - &COLOR4        '#9876AA'
     - &COLOR5        '#FF79C6'
     - &COLOR6        '#007297'
     - &COLOR7        '#F8F8F2'
     - &COLOR8        '#6272A4'
     - &COLOR9        '#FF5555'
-    - &COLOR10       '#69FF94'
-    - &COLOR11       '#FFFFA5'
+    - &COLOR10       '#1D9A62'
+    - &COLOR11       '#c89f73'
     - &COLOR12       '#8F69D4'
     - &COLOR13       '#FF79C6'
     - &COLOR14       '#007297'
     - &COLOR15       '#FFFFFF'
   brightOther:
     # Temporary (awaiting fix)
-    - &TEMP_QUOTES          '#067D17'
-    - &TEMP_PROPERTY_QUOTES '#067D17'
+    - &TEMP_QUOTES          '#1D9A62'
+    - &TEMP_PROPERTY_QUOTES '#1D9A62'
   other:
-    - &LineHighlight '#EEE8D5'
-    - &NonText       '#FFFFFF1A'
-    - &WHITE         '#FFFFFF'
-    - &TAB_DROP_BG   '#F7F8FA70'
+    - &LineHighlight '#153F48'
+    - &NonText       '#002F381A'
+    - &WHITE         '#BBBBBB'
+    - &TAB_DROP_BG   '#153F48'
     # UI Variants
-    - &BGLighter     '#FFFBE8'
-    - &BGLight       '#FFFBE8' # HSV (230   , 25.71, 27.45)
-    - &BGDark        '#FFFBE8' # HSV (234.55, 25   , 17.25)
-    - &BGDarker      '#ccc8b6' # HSV (234.55, 25   , 13   )
-    - &BORDER        '#f5f1de'
-    - &STATIC        '#871790'
-    - &ANNOTATION    '#9e880d' # HSV (234.55, 25   , 13   )
-    - &INDENT_GUIDE '#f1edef'
-    - &MATCHED_INDENT_GUIDE '#ddb900'
-    - &LINE_NUMBER '#aeb3c2'
-    - &SELECTED '#ddb900'
+    - &BGLighter     '#002F38'
+    - &BGLight       '#002F38' # HSV (230   , 25.71, 27.45)
+    - &BGDark        '#002F38' # HSV (234.55, 25   , 17.25)
+    - &BGDarker      '#153f48' # HSV (234.55, 25   , 13   )
+    - &BORDER        '#153648'
+    - &STATIC        '#85A658'
+    - &ANNOTATION    '#A09A1D' # HSV (234.55, 25   , 13   )
+    - &INDENT_GUIDE '#153648'
+    - &MATCHED_INDENT_GUIDE '#00898a'
+    - &LINE_NUMBER '#a3a5ba'
+    - &SELECTED '#153F48'
 
 # User Interface (more info: https://code.visualstudio.com/docs/getstarted/theme-color-reference)
 colors:
@@ -152,11 +152,11 @@ colors:
   activityBar.background        : *BGLight # Activity Bar background color
   activityBar.inactiveForeground: *COMMENT # Activity bar item foreground color when it is inactive
   activityBar.dropBackground    : # Drag and drop feedback color for the Activity Bar items
-  activityBar.foreground        : *BGER # Activity bar foreground color (for example used for the icons)
+  activityBar.foreground        : *KEYWORD # Activity bar foreground color (for example used for the icons)
   activityBar.border            : *BORDER # Activity Bar border color with the Side Bar
-  activityBar.activeBorder      : *BGER # Activity Bar indicator color
+  activityBar.activeBorder      : *KEYWORD # Activity Bar indicator color
   activityBar.activeBackground  : *BGDarker # Activity Bar indicator background color
-  activityBarBadge.background   : *BGER # Activity notification badge background color
+  activityBarBadge.background   : *KEYWORD # Activity notification badge background color
   activityBarBadge.foreground   : *WHITE # Activity notification badge foreground color
 
   # Side Bar
@@ -179,7 +179,7 @@ colors:
   tab.activeBackground           : *BG # Active Tab background color
   tab.activeForeground           : *FG # Active Tab foreground color in an active group
   tab.border                     : *BORDER # Border to separate Tabs from each other
-  tab.activeBorderTop            : *BGER # A border drawn to the top of the active tab
+  tab.activeBorderTop            : *KEYWORD # A border drawn to the top of the active tab
   tab.activeBorder               :  # A border drawn to the bottom of the active tab
   tab.unfocusedActiveBorder      : # A border drawn to the bottom of the active tab in an editor group that is not focused
   tab.inactiveBackground         : *BGDark # Inactive Tab background color
@@ -191,22 +191,22 @@ colors:
   editor.foreground                : *FG
   editor.background                : *BG
   editorLineNumber.foreground      : *LINE_NUMBER
-  editorLineNumber.activeForeground: *BGER # 当前行的行号前景色
-  editorCursor.foreground          : *BGER
+  editorLineNumber.activeForeground: *KEYWORD # 当前行的行号前景色
+  editorCursor.foreground          : *KEYWORD
 
   editor.selectionBackground         : *SELECTION # Color of the editor selection
   editor.selectionHighlightBackground: *SELECTED # Color for regions with the same content as the selection
   editor.inactiveSelectionBackground : # Color of the selection in an inactive editor
   editor.foldBackground              : *SELECTION # Background color for folded ranges
 
-  editor.wordHighlightBackground      : !alpha [*SELECTION, 50] # Background color of a symbol during read-access, for example when reading a variable
-  editor.wordHighlightStrongBackground: !alpha [*SELECTED, 40] # Background color of a symbol during write-access, for example when writing to a variable
+  editor.wordHighlightBackground      : !alpha [*SELECTION, 80] # Background color of a symbol during read-access, for example when reading a variable
+  editor.wordHighlightStrongBackground: !alpha [*SELECTED, 80] # Background color of a symbol during write-access, for example when writing to a variable
 
-  editor.findMatchBackground         : !alpha [*ORANGE, 40]
-  editor.findMatchHighlightBackground: !alpha [*MATCHED_INDENT_GUIDE, 40] # Color of the other search matches
+  editor.findMatchBackground         : !alpha [*ORANGE, 80]
+  editor.findMatchHighlightBackground: !alpha [*MATCHED_INDENT_GUIDE, 80] # Color of the other search matches
   editor.findRangeHighlightBackground: *SELECTION # Color the range limiting the search
 
-  editor.hoverHighlightBackground: !alpha [*MATCHED_INDENT_GUIDE, 50] # Highlight below the word for which a hover is shown
+  editor.hoverHighlightBackground: !alpha [*MATCHED_INDENT_GUIDE, 80] # Highlight below the word for which a hover is shown
 
   editor.lineHighlightBackground: *LineHighlight # Background color for the highlight of line at the cursor position
   editor.lineHighlightBorder    : *LineHighlight # Background color for the border around the line at the cursor position
@@ -283,6 +283,9 @@ colors:
   editorWidget.background: *BGDark # Background color of editor widgets, such as Find/Replace
   editorWidgetBorder     : # Border color of the editor widget unless the widget does not contain a border or defines its own border color
 
+  editorStickyScroll.shadow         : *SHADOW
+  editorStickyScrollHover.background: *SELECTION
+
   editorSuggestWidget.background         : *BGDark # Background color of the suggestion widget
   editorSuggestWidget.border             : # Border color of the suggestion widget
   editorSuggestWidget.foreground         : *FG # Foreground color of the suggestion widget
@@ -341,8 +344,8 @@ colors:
   statusBarItem.hoverBackground         : # Status Bar item background color when hovering
   statusBarItem.prominentBackground     : *RED # Status Bar prominent items background color. Prominent items stand out from other Status Bar entries to indicate importance
   statusBarItem.prominentHoverBackground: *ORANGE # Status Bar prominent items background color when hovering. Prominent items stand out from other Status Bar entries to indicate importance
-  statusBarItem.remoteForeground        : *WHITE # Background color for the remote indicator on the status bar
-  statusBarItem.remoteBackground        : *BGER # Foreground color for the remote indicator on the status bar
+  statusBarItem.remoteForeground        : *KEYWORD # Background color for the remote indicator on the status bar
+  statusBarItem.remoteBackground        : *SELECTED # Foreground color for the remote indicator on the status bar
   statusBar.border                      : *BORDER
 
   # Title Bar Colors (MacOS Only)
@@ -671,7 +674,6 @@ tokenColors:
   - name: HTML/XML tags
     scope:
       - entity.name.tag
-      - punctuation.definition.string.begin.xml
     settings:
       foreground: *CYAN
 

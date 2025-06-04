@@ -1,62 +1,61 @@
 $schema: vscode://schemas/color-theme
-name: falcon-light-yellow-theme
+name: falcon-light-grey-theme
 author: Xiaoan
 maintainers:
   - Xiaoan Pan
-semanticClass: theme.yellow
+semanticClass: theme.grey
 semanticHighlighting: true
-yellow:
+grey:
   base:
-    - &BG        '#FFFBE8'
-    - &BGER        '#917800'
-    - &FG        '#383A42'
-    - &SELECTION '#CCC8B6'
-    - &COMMENT   '#9DA0A8'
-    - &CYAN      '#007297'
-    - &PURPLE    '#643CB8'
-    - &ORANGE    '#8D4532'
-    - &GREEN     '#067D17'
-    - &BLUE      '#174ad4'
-    - &RED       '#FF5555'
-    - &KEYWORD   '#067D17'
+    - &BG '#f0f4f4'
+    - &BGER '#739FA8'
+    - &FG '#383A42'
+    - &SELECTION '#c7dae1'
+    - &COMMENT '#9DA0A8'
+    - &CYAN '#007297'
+    - &PURPLE '#643CB8'
+    - &ORANGE '#8D4532'
+    - &GREEN '#067D17'
+    - &BLUE '#174ad4'
+    - &RED '#FF5555'
   ansi:
-    - &COLOR0        '#383A42'
-    - &COLOR1        '#FF5555'
-    - &COLOR2        '#383A42'
-    - &COLOR3        '#dfae64'
-    - &COLOR4        '#871790'
-    - &COLOR5        '#FF79C6'
-    - &COLOR6        '#007297'
-    - &COLOR7        '#F8F8F2'
-    - &COLOR8        '#6272A4'
-    - &COLOR9        '#FF5555'
-    - &COLOR10       '#69FF94'
-    - &COLOR11       '#FFFFA5'
-    - &COLOR12       '#8F69D4'
-    - &COLOR13       '#FF79C6'
-    - &COLOR14       '#007297'
-    - &COLOR15       '#FFFFFF'
+    - &COLOR0 '#383A42'
+    - &COLOR1 '#FF5555'
+    - &COLOR2 '#383A42'
+    - &COLOR3 '#dfae64'
+    - &COLOR4 '#871790'
+    - &COLOR5 '#FF79C6'
+    - &COLOR6 '#007297'
+    - &COLOR7 '#F8F8F2'
+    - &COLOR8 '#6272A4'
+    - &COLOR9 '#FF5555'
+    - &COLOR10 '#2fc864'
+    - &COLOR11 '#ecc27d'
+    - &COLOR12 '#643CB8'
+    - &COLOR13 '#FF79C6'
+    - &COLOR14 '#007297'
+    - &COLOR15 '#FFFFFF'
   brightOther:
     # Temporary (awaiting fix)
-    - &TEMP_QUOTES          '#067D17'
+    - &TEMP_QUOTES '#067D17'
     - &TEMP_PROPERTY_QUOTES '#067D17'
   other:
-    - &LineHighlight '#EEE8D5'
-    - &NonText       '#FFFFFF1A'
-    - &WHITE         '#FFFFFF'
-    - &TAB_DROP_BG   '#F7F8FA70'
+    - &LineHighlight '#FDFEFE'
+    - &NonText '#FFFFFF1A'
+    - &WHITE '#FFFFFF'
+    - &TAB_DROP_BG '#cedee2'
     # UI Variants
-    - &BGLighter     '#FFFBE8'
-    - &BGLight       '#FFFBE8' # HSV (230   , 25.71, 27.45)
-    - &BGDark        '#FFFBE8' # HSV (234.55, 25   , 17.25)
-    - &BGDarker      '#ccc8b6' # HSV (234.55, 25   , 13   )
-    - &BORDER        '#f5f1de'
-    - &STATIC        '#871790'
-    - &ANNOTATION    '#9e880d' # HSV (234.55, 25   , 13   )
-    - &INDENT_GUIDE '#f1edef'
-    - &MATCHED_INDENT_GUIDE '#ddb900'
+    - &BGLighter '#f0f4f4'
+    - &BGLight '#f0f4f4' # HSV (230   , 25.71, 27.45)
+    - &BGDark '#f0f4f4' # HSV (234.55, 25   , 17.25)
+    - &BGDarker '#cedee2' # HSV (234.55, 25   , 13   )
+    - &BORDER '#e6eaea'
+    - &STATIC '#871790'
+    - &ANNOTATION '#9e880d'
+    - &INDENT_GUIDE '#e6eaea'
+    - &MATCHED_INDENT_GUIDE '#c7dae1'
+    - &SELECTED '#c7dae1'
     - &LINE_NUMBER '#aeb3c2'
-    - &SELECTED '#ddb900'
 
 # User Interface (more info: https://code.visualstudio.com/docs/getstarted/theme-color-reference)
 colors:
@@ -191,22 +190,22 @@ colors:
   editor.foreground                : *FG
   editor.background                : *BG
   editorLineNumber.foreground      : *LINE_NUMBER
-  editorLineNumber.activeForeground: *BGER # 当前行的行号前景色
-  editorCursor.foreground          : *BGER
+  editorLineNumber.activeForeground: *GREEN # 当前行的行号前景色
+  editorCursor.foreground          : *GREEN
 
   editor.selectionBackground         : *SELECTION # Color of the editor selection
   editor.selectionHighlightBackground: *SELECTED # Color for regions with the same content as the selection
   editor.inactiveSelectionBackground : # Color of the selection in an inactive editor
   editor.foldBackground              : *SELECTION # Background color for folded ranges
 
-  editor.wordHighlightBackground      : !alpha [*SELECTION, 50] # Background color of a symbol during read-access, for example when reading a variable
-  editor.wordHighlightStrongBackground: !alpha [*SELECTED, 40] # Background color of a symbol during write-access, for example when writing to a variable
+  editor.wordHighlightBackground      : !alpha [*SELECTION, 60] # Background color of a symbol during read-access, for example when reading a variable
+  editor.wordHighlightStrongBackground: !alpha [*SELECTED, 60] # Background color of a symbol during write-access, for example when writing to a variable
 
-  editor.findMatchBackground         : !alpha [*ORANGE, 40]
-  editor.findMatchHighlightBackground: !alpha [*MATCHED_INDENT_GUIDE, 40] # Color of the other search matches
+  editor.findMatchBackground         : !alpha [*ORANGE, 60]
+  editor.findMatchHighlightBackground: !alpha [*MATCHED_INDENT_GUIDE, 60] # Color of the other search matches
   editor.findRangeHighlightBackground: *SELECTION # Color the range limiting the search
 
-  editor.hoverHighlightBackground: !alpha [*MATCHED_INDENT_GUIDE, 50] # Highlight below the word for which a hover is shown
+  editor.hoverHighlightBackground: !alpha [*MATCHED_INDENT_GUIDE, 60] # Highlight below the word for which a hover is shown
 
   editor.lineHighlightBackground: *LineHighlight # Background color for the highlight of line at the cursor position
   editor.lineHighlightBorder    : *LineHighlight # Background color for the border around the line at the cursor position
@@ -326,7 +325,7 @@ colors:
   # Panel Colors
   panel.background             : *BG # Panel background color
   panel.border                 : *BORDER # Panel border color on the top separating to the editor
-  panelTitle.activeBorder      : *GREEN # Border color for the active panel title
+  panelTitle.activeBorder      : *BGER # Border color for the active panel title
   panelTitle.activeForeground  : *FG # Title color for the active panel
   panelTitle.inactiveForeground: *COMMENT # Title color for the inactive panel
 
@@ -589,7 +588,7 @@ tokenColors:
       - variable.other.readwrite.instance.ruby # ruby's "@" instance symbol
       - variable.parameter.function.language.special # Special words as parameters
     settings:
-      foreground: *KEYWORD
+      foreground: *GREEN
       fontStyle: normal
 
   - name: Inherited classes
@@ -618,7 +617,7 @@ tokenColors:
       - comment.block.documentation keyword
       - comment.block.documentation storage.type.class
     settings:
-      foreground: *KEYWORD
+      foreground: *GREEN
 
   - name: JSDoc-style types
     scope:
@@ -751,7 +750,7 @@ tokenColors:
       - keyword
       - punctuation.definition.keyword
     settings:
-      foreground: *KEYWORD
+      foreground: *GREEN
 
   - name: Keyword "new"
     scope:
@@ -764,7 +763,7 @@ tokenColors:
     scope:
       - meta.selector
     settings:
-      foreground: *KEYWORD
+      foreground: *GREEN
 
   # =============================================================================
   # Language Built-ins
@@ -952,7 +951,7 @@ tokenColors:
     scope:
       - storage.modifier
     settings:
-      foreground: *KEYWORD
+      foreground: *GREEN
 
   # =============================================================================
   # RegExp
