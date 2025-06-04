@@ -5,7 +5,7 @@
 
 
 <strong>从 VS Code 插件市场下载该主题：</strong>
-[VS Code Marketplace](https://marketplace.visualstudio.com/publishers/panxiaoan)
+[VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=panxiaoan.themes-falcon-vscode)
 
 <br/>
 <img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/light-celadon.jpg" alt="Falcon VS Code Themes" style="border: 1px solid #CED0D6;">
