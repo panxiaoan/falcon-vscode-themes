@@ -59,29 +59,29 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 
 ## Screenshot (Falcon Light Themes)
 
-- Falcon Light Celadon
+- [Falcon Light Celadon](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-celadon)
 
     <img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/light-celadon.jpg" alt="Falcon Light Celadon" style="border: 1px solid #CED0D6;">
 
-- Falcon Light Green
+- [Falcon Light Green](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-green)
 
     <img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/light-green.jpg" alt="Falcon Light Green" style="border: 1px solid #CED0D6;">
 
-- Falcon Light Pink
+- [Falcon Light Celadon](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-celadon)
 
     <img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/light-pink.jpg" alt="Falcon Light Pink" style="border: 1px solid #CED0D6;">
 
-- Falcon Light Yellow
+- [Falcon Light Yellow](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-yellow)
 
     <img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/light-yellow.jpg" alt="Falcon Light Yellow" style="border: 1px solid #CED0D6;">
 
-- Falcon Light Grey
+- [Falcon Light Grey](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-grey)
 
     <img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/light-grey.jpg" alt="Falcon Light Grey" style="border: 1px solid #CED0D6;">
 
 ## Screenshot (Falcon Dark Themes)
 
-- Falcon Dark Green
+- [Falcon Dark Green](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-dark-green)
 
     <img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/dark-green.jpg" alt="Falcon Dark Green" style="border: 1px solid #CED0D6;">
 
