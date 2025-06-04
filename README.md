@@ -33,14 +33,12 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 - [Falcon Light Pink](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-pink)
 - [Falcon Light Yellow](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-yellow)
 - [Falcon Light Grey](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-grey)
-
-There is more coming soooooon!!!
+- There is more coming soooooon!!!
 
 **Falcon Relaxing-Eyes Dark themes (for low-light environments):**
 
 - [Falcon Dark Green](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-dark-green)
-
-There is more coming soooooon!!!
+- There is more coming soooooon!!!
 
 <a href="https://github.com/panxiaoan/falcon-vscode-themes/issues">Report an issue</a>
 
