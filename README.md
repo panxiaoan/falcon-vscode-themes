@@ -65,7 +65,7 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 
     <img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/light-green.jpg" alt="Falcon Light Green" style="border: 1px solid #CED0D6;">
 
-- [Falcon Light Celadon](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-celadon)
+- [Falcon Light Pink](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-pink)
 
     <img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/light-pink.jpg" alt="Falcon Light Pink" style="border: 1px solid #CED0D6;">
 
