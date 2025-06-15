@@ -38,6 +38,7 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 **Falcon Relaxing-Eyes Dark themes (for low-light environments):**
 
 - [Falcon Dark Green](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-dark-green)
+- [Falcon Dark Blue](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-dark-blue)
 - There is more coming soooooon!!!
 
 ## Many thanks the following projects:
@@ -82,6 +83,10 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 - [Falcon Dark Green](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-dark-green)
 
     <img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/dark-green.jpg" alt="Falcon Dark Green" style="border: 1px solid #CED0D6;">
+
+- [Falcon Dark Blue](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-dark-blue)
+
+    <img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/dark-blue.jpg" alt="Falcon Dark Blue" style="border: 1px solid #CED0D6;">
 
 ## License
 
