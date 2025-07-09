@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.2.0 (20250715) → → 👦🏻 Joyous occasion at home!!!
+
+- Add: Falcon Dark Theme
+
 ## 2.1.0 (20250615) → 👦🏻 Happy Father's Day!!!
 
 - Add: Falcon Dark Blue Theme

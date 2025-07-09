@@ -85,6 +85,11 @@
                 "path": "./theme/light/grey.json"
             },
             {
+                "label": "Falcon Dark",
+                "uiTheme": "vs-dark",
+                "path": "./theme/dark/dark.json"
+            },
+            {
                 "label": "Falcon Dark Green",
                 "uiTheme": "vs-dark",
                 "path": "./theme/dark/green.json"

@@ -54,7 +54,7 @@ green:
     - &STATIC        '#85A658'
     - &ANNOTATION    '#A09A1D' # HSV (234.55, 25   , 13   )
     - &INDENT_GUIDE '#344359'
-    - &MATCHED_INDENT_GUIDE '#00898a'
+    - &MATCHED_INDENT_GUIDE '#305862'
     - &LINE_NUMBER '#a3a5ba'
     - &SELECTED '#153F48'
 
@@ -344,8 +344,8 @@ colors:
   statusBarItem.hoverBackground         : # Status Bar item background color when hovering
   statusBarItem.prominentBackground     : *RED # Status Bar prominent items background color. Prominent items stand out from other Status Bar entries to indicate importance
   statusBarItem.prominentHoverBackground: *ORANGE # Status Bar prominent items background color when hovering. Prominent items stand out from other Status Bar entries to indicate importance
-  statusBarItem.remoteForeground        : *KEYWORD # Background color for the remote indicator on the status bar
-  statusBarItem.remoteBackground        : *SELECTED # Foreground color for the remote indicator on the status bar
+  statusBarItem.remoteForeground        : *FG # Background color for the remote indicator on the status bar
+  statusBarItem.remoteBackground        : *BGDark # Foreground color for the remote indicator on the status bar
   statusBar.border                      : *BORDER
 
   # Title Bar Colors (MacOS Only)

@@ -1,13 +1,13 @@
 $schema: vscode://schemas/color-theme
-name: falcon-dark-green-theme
+name: falcon-dark-theme
 author: Xiaoan
 maintainers:
   - Xiaoan Pan
-semanticClass: theme.dark.green
+semanticClass: theme.dark
 semanticHighlighting: true
 green:
   base:
-    - &BG        '#002F38'
+    - &BG        '#282A36'
     - &FG        '#BBBBBB'
     - &SELECTION '#305862'
     - &COMMENT   '#8092AB'
@@ -30,33 +30,33 @@ green:
     - &COLOR7        '#F8F8F2'
     - &COLOR8        '#6272A4'
     - &COLOR9        '#FF5555'
-    - &COLOR10       '#1D9A62'
+    - &COLOR10       '#6aab73'
     - &COLOR11       '#c89f73'
-    - &COLOR12       '#8F69D4'
+    - &COLOR12       '#9876AA'
     - &COLOR13       '#FF79C6'
     - &COLOR14       '#007297'
     - &COLOR15       '#FFFFFF'
   brightOther:
     # Temporary (awaiting fix)
-    - &TEMP_QUOTES          '#1D9A62'
-    - &TEMP_PROPERTY_QUOTES '#1D9A62'
+    - &TEMP_QUOTES          '#6aab73'
+    - &TEMP_PROPERTY_QUOTES '#6aab73'
   other:
-    - &LineHighlight '#153F48'
-    - &NonText       '#002F381A'
+    - &LineHighlight '#383A46'
+    - &NonText       '#282A361A'
     - &WHITE         '#BBBBBB'
-    - &TAB_DROP_BG   '#153F48'
+    - &TAB_DROP_BG   '#515260'
     # UI Variants
-    - &BGLighter     '#002F38'
-    - &BGLight       '#002F38' # HSV (230   , 25.71, 27.45)
-    - &BGDark        '#002F38' # HSV (234.55, 25   , 17.25)
-    - &BGDarker      '#153f48' # HSV (234.55, 25   , 13   )
-    - &BORDER        '#153648'
+    - &BGLighter     '#282A36'
+    - &BGLight       '#282A36' # HSV (230   , 25.71, 27.45)
+    - &BGDark        '#282A36' # HSV (234.55, 25   , 17.25)
+    - &BGDarker      '#515260' # HSV (234.55, 25   , 13   )
+    - &BORDER        '#383a46'
     - &STATIC        '#85A658'
     - &ANNOTATION    '#A09A1D' # HSV (234.55, 25   , 13   )
-    - &INDENT_GUIDE '#153648'
+    - &INDENT_GUIDE '#383a46'
     - &MATCHED_INDENT_GUIDE '#305862'
     - &LINE_NUMBER '#a3a5ba'
-    - &SELECTED '#153F48'
+    - &SELECTED '#515260'
 
 # User Interface (more info: https://code.visualstudio.com/docs/getstarted/theme-color-reference)
 colors:
