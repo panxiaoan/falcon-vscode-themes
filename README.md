@@ -55,6 +55,16 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 ## Suggestion
 
 - 因为主题颜色较浅，如果想要更清晰的显示效果，建议在 VS Code 设置更清晰的字体（如 `JetBrains Mono`, `Consolas`, `Fira Code`），并适当调大字号。
+- 我的 VSCode 关于字体的设置：
+```json
+{
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontWeight": "normal",
+    "editor.fontSize": 13,
+    "editor.lineHeight": 1.7,
+    "editor.fontLigatures": true
+}
+```
 - 如果 Windows 用户，请开启 Windows ClearType，并优化显示器设置：在 Windows 设置里搜索 `ClearType`，开启并调优；同时调整显示器对比度和亮度。
 
 ## Screenshot (Falcon Light Themes)
