@@ -198,10 +198,10 @@ colors:
   editor.inactiveSelectionBackground : # Color of the selection in an inactive editor
   editor.foldBackground              : *SELECTION # Background color for folded ranges
 
-  editor.wordHighlightBackground      : !alpha [*SELECTION, 60] # Background color of a symbol during read-access, for example when reading a variable
-  editor.wordHighlightStrongBackground: !alpha [*SELECTED, 60] # Background color of a symbol during write-access, for example when writing to a variable
+  editor.wordHighlightBackground      : !alpha [*GREEN, 30] # Background color of a symbol during read-access, for example when reading a variable
+  editor.wordHighlightStrongBackground: !alpha [*GREEN, 30] # Background color of a symbol during write-access, for example when writing to a variable
 
-  editor.findMatchBackground         : !alpha [*ORANGE, 60]
+  editor.findMatchBackground         : !alpha [*GREEN, 30]
   editor.findMatchHighlightBackground: !alpha [*MATCHED_INDENT_GUIDE, 60] # Color of the other search matches
   editor.findRangeHighlightBackground: *SELECTION # Color the range limiting the search
 

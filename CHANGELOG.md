@@ -1,6 +1,10 @@
 # Changelog
 
-## 2.2.0 (20250715) → → 👦🏻 Joyous occasion at home!!!
+## 2.2.1 (20250818)
+
+- Improve: improve `editor.wordHighlightBackground`、`editor.wordHighlightStrongBackground`、`editor.findMatchBackground` attribute set more visible background color.
+
+## 2.2.0 (20250715) → 👦🏻 Joyous occasion at home!!!
 
 - Add: Falcon Dark Theme
 
