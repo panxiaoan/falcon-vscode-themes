@@ -1,5 +1,10 @@
 # Changelog
 
+## 3.0.0 (20260105) → 🔥 Happy New Year!!!
+
+- Add: Falcon Light Buff Theme (浅黄主题)
+- Add: Falcon Light Bean Green Theme (豆沙绿主题)
+
 ## 2.2.1 (20250818)
 
 - Improve: improve `editor.wordHighlightBackground`、`editor.wordHighlightStrongBackground`、`editor.findMatchBackground` attribute set more visible background color.

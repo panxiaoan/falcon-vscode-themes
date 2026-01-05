@@ -1,7 +1,7 @@
-# Falcon Relaxing-Eyes Themes
+# Falcon Relaxing-Eyes Themes (VSCode 护眼主题)
 
 > A gentle, eye-friendly theme to protect your eyesight for [Visual Studio Code](https://code.visualstudio.com/) <br/>
-> 一个温和的，对眼睛友好，保护视力的 VS Code 主题
+> 一个温和的，对眼睛友好，保护视力的 VS Code 护眼主题
 
 
 <strong>从 VS Code 插件市场下载该主题：</strong>
@@ -33,6 +33,8 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 - [Falcon Light Pink](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-pink)
 - [Falcon Light Yellow](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-yellow)
 - [Falcon Light Grey](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-grey)
+- [Falcon Light Bean Green](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-bean-green)
+- [Falcon Light Buff](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-buff)
 - There is more coming soooooon!!!
 
 **Falcon Relaxing-Eyes Dark themes (for low-light environments):**
@@ -88,6 +90,14 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 - [Falcon Light Grey](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-grey)
 
     <img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/light-grey.jpg" alt="Falcon Light Grey" style="border: 1px solid #CED0D6;">
+
+- [Falcon Light Bean Green](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-bean-green)
+
+    <img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/light-bean-green.png" alt="Falcon Light Bean Green" style="border: 1px solid #CED0D6;">
+
+- [Falcon Light Buff](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-buff)
+
+    <img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/light-buff.png" alt="Falcon Light Buff" style="border: 1px solid #CED0D6;">
 
 ## Screenshot (Falcon Dark Themes)
 
