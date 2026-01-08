@@ -1,5 +1,9 @@
 # Changelog
 
+## 3.0.1 (20260108)
+
+- Improve: 完善文档
+
 ## 3.0.0 (20260105) → 🔥 Happy New Year!!!
 
 - Add: Falcon Light Buff Theme (浅黄主题)

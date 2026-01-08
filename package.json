@@ -1,9 +1,9 @@
 {
     "name": "themes-falcon-vscode",
-    "version": "3.0.0",
-    "displayName": "Falcon Relaxing-Eyes Themes",
+    "version": "3.0.1",
+    "displayName": "Falcon Relaxing-Eyes Themes - 护眼主题",
     "homepage": "https://github.com/panxiaoan/falcon-vscode-themes",
-    "description": "A gentle, eye-friendly theme to protect your eyesight for VS Code",
+    "description": "A gentle, eye-friendly theme to protect your eyesight for VS Code (温和、对眼睛友好、保护视力的护眼主题)",
     "publisher": "panxiaoan",
     "license": "MIT",
     "scripts": {
@@ -45,7 +45,8 @@
         "green",
         "pink",
         "yellow",
-        "grey"
+        "grey",
+        "护眼"
     ],
     "icon": "icon.png",
     "galleryBanner": {
