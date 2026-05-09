@@ -66,7 +66,7 @@ See [Install Docs](./INSTALL.md) for detailed instructions.
 
 ## Issues
 
-Found a bug or have a suggestion? <a href="https://github.com/panxiaoan/falcon-zed-themes/issues">Report an issue</a>
+Found a bug or have a suggestion? <a href="https://github.com/panxiaoan/falcon-vscode-themes/issues">Report an issue</a>
 
 ## License
 
@@ -80,7 +80,7 @@ Using **JetBrains IDEs?** You can also experience the same theme there.
 
 Using **Zed?** You can also experience the same theme there.
 
-👉 [Download from Zed Extensions](https://zed.dev/extensions?filter=themes&query=falcon)
+👉 [Download from Zed Extensions](https://github.com/panxiaoan/falcon-zed-themes/blob/main/INSTALL.md)
 
 ## Screenshot (Falcon Light Themes)
 
