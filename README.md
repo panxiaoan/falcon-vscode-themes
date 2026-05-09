@@ -1,32 +1,28 @@
-# Falcon Relaxing-Eyes Themes (护眼主题)
+# Falcon Relaxing-Eyes Themes for [VS Code](https://code.visualstudio.com/)
 
 > A gentle, eye-friendly theme to protect your eyesight for [Visual Studio Code](https://code.visualstudio.com/) <br/>
 > 一个温和的，对眼睛友好，保护视力的 VS Code 护眼主题
 
-
 <strong>从 VS Code 插件市场下载该主题：</strong>
 [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=panxiaoan.themes-falcon-vscode)
 
-<br/>
-<img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/light-celadon.jpg" alt="Falcon VS Code Themes" style="border: 1px solid #CED0D6;">
+<img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/light-green.jpg" alt="Falcon Relaxing-Eyes Themes for VS Code" style="border: 1px solid #CED0D6;">
 
+<br/>
 If you're working in a bright environment for extended periods, a light-colored theme is usually better.
 <br/>
 You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 
-在明亮的工作环境中，长时间使用 VS Code，建议使用浅色主题，减少视觉疲劳。<br/>
-
-> <a href="https://ux.stackexchange.com/questions/53264/dark-or-white-color-theme-is-better-for-the-eyes">Dark or white color theme is better for the eyes?</a>
-<img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/about.jpg" alt="Relax Green Light" style="border: 1px solid #CED0D6;">
+在明亮的工作环境中，长时间使用 IDE，建议使用浅色主题，减少视觉疲劳。<br/>
 
 **Features:**
 
-- Gentle, eye-friendly colors to reduce strain
-- Improved syntax highlighting for clarity
-- Consistent and clean theme style
-- Lightweight design with minimal impact on VSCode - performance
+- 🌿 Gentle, eye-friendly colors to reduce strain
+- ✨ Improved syntax highlighting for clarity
+- 🎨 Consistent and clean theme style
+- ⚡ Lightweight design with minimal impact on VS Code - performance
 
-**Falcon Relaxing-Eyes Light themes (for bright environments):**
+**Light themes (for bright environments):**
 
 - [Falcon Light Green](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-green)
 - [Falcon Light Celadon](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-celadon)
@@ -37,22 +33,16 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 - [Falcon Light Buff](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-buff)
 - There is more coming soooooon!!!
 
-**Falcon Relaxing-Eyes Dark themes (for low-light environments):**
+**Dark themes (for low-light environments):**
 
 - [Falcon Dark](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-dark)
 - [Falcon Dark Green](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-dark-green)
 - [Falcon Dark Blue](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-dark-blue)
 - There is more coming soooooon!!!
 
-## Many thanks the following projects:
+## Install
 
-- [Dracula Theme](https://draculatheme.com/visual-studio-code)
-- [Uloco](https://github.com/uloco/syntax-highlighting-samples)
-
-## Source Code
-
-- [Gitee](https://gitee.com/panxiaoan/falcon-vscode-themes)
-- [Github](https://github.com/panxiaoan/falcon-vscode-themes)
+See [Install Docs](./INSTALL.md) for detailed instructions.
 
 ## Suggestion
 
@@ -68,6 +58,29 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 }
 ```
 - 如果 Windows 用户，请开启 Windows ClearType，并优化显示器设置：在 Windows 设置里搜索 `ClearType`，开启并调优；同时调整显示器对比度和亮度。
+
+## Source Code
+
+- [Gitee](https://gitee.com/panxiaoan/falcon-vscode-themes)
+- [Github](https://github.com/panxiaoan/falcon-vscode-themes)
+
+## Issues
+
+Found a bug or have a suggestion? <a href="https://github.com/panxiaoan/falcon-zed-themes/issues">Report an issue</a>
+
+## License
+
+See [MIT License](./LICENSE) for detailed instructions.
+
+## Falcon Themes for JetBrains、Zed
+
+Using **JetBrains IDEs?** You can also experience the same theme there.
+
+👉 [Download from Jetbrains Marketplace](https://plugins.jetbrains.com/plugin/26026-falcon-relax-eyes-light-theme)
+
+Using **Zed?** You can also experience the same theme there.
+
+👉 [Download from Zed Extensions](https://zed.dev/extensions?filter=themes&query=falcon)
 
 ## Screenshot (Falcon Light Themes)
 
@@ -112,13 +125,3 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 - [Falcon Dark Blue](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-dark-blue)
 
     <img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/dark-blue.jpg" alt="Falcon Dark Blue" style="border: 1px solid #CED0D6;">
-
-## License
-
-[MIT License](./LICENSE.txt)
-
-## Jetbrains IDE Theme
-
-另外，使用 Jetbrains IDE 的用户，也可以体验同款主题
-
-请前往 Jetbrains Marketplace [下载](https://plugins.jetbrains.com/plugin/26026-falcon-relax-eyes-light-theme)
