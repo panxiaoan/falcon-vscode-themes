@@ -1,5 +1,9 @@
 # Falcon Relaxing-Eyes Themes for [VS Code](https://code.visualstudio.com/)
 
+<p align="center">
+   <img src="./assets/logo.png" alt="Logo" width="128"/>
+</p>
+
 > A gentle, eye-friendly theme to protect your eyesight for [Visual Studio Code](https://code.visualstudio.com/) <br/>
 > 一个温和的，对眼睛友好，保护视力的 VS Code 护眼主题
 
