@@ -1,5 +1,11 @@
 # Changelog
 
+## 3.0.2 (20260520) → 🌹🌹🌹520 Day(May 20th is known as '520 Day' in China, because the pronunciation of '5-2-0' sounds
+    like 'I love you' in Chinese.)
+
+- ⚠️ 广而告之：同款 Zed 主题，欢迎体验：https://zed.dev/extensions/falcon-theme
+- Improve: 完善文档
+
 ## 3.0.1 (20260108)
 
 - Improve: 完善文档

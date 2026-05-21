@@ -28,20 +28,20 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 
 **Light themes (for bright environments):**
 
-- [Falcon Light Green](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-green)
-- [Falcon Light Celadon](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-celadon)
-- [Falcon Light Pink](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-pink)
-- [Falcon Light Yellow](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-yellow)
-- [Falcon Light Grey](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-grey)
-- [Falcon Light Bean Green](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-bean-green)
-- [Falcon Light Buff](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-buff)
+- ☘️ [Falcon Light Green](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-green)
+- 🍵 [Falcon Light Celadon](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-celadon)
+- 🌸 [Falcon Light Pink](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-pink)
+- 🐣 [Falcon Light Yellow](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-yellow)
+- 🗞️ [Falcon Light Grey](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-grey)
+- 🍃 [Falcon Light Bean Green](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-bean-green)
+- 🐂 [Falcon Light Buff](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-buff)
 - There is more coming soooooon!!!
 
 **Dark themes (for low-light environments):**
 
-- [Falcon Dark](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-dark)
-- [Falcon Dark Green](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-dark-green)
-- [Falcon Dark Blue](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-dark-blue)
+- 🐈‍⬛ [Falcon Dark](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-dark)
+- 🦚 [Falcon Dark Green](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-dark-green)
+- 🌌 [Falcon Dark Blue](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-dark-blue)
 - There is more coming soooooon!!!
 
 ## Install
@@ -84,48 +84,48 @@ Using **JetBrains IDEs?** You can also experience the same theme there.
 
 Using **Zed?** You can also experience the same theme there.
 
-👉 [Download from Zed Extensions](https://github.com/panxiaoan/falcon-zed-themes/blob/main/INSTALL.md)
+👉 [Download from Zed Extensions](https://zed.dev/extensions/falcon-theme)
 
 ## Screenshot (Falcon Light Themes)
 
-- [Falcon Light Celadon](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-celadon)
+- 🍵 [Falcon Light Celadon](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-celadon)
 
     <img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/light-celadon.jpg" alt="Falcon Light Celadon" style="border: 1px solid #CED0D6;">
 
-- [Falcon Light Green](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-green)
+- ☘️ [Falcon Light Green](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-green)
 
     <img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/light-green.jpg" alt="Falcon Light Green" style="border: 1px solid #CED0D6;">
 
-- [Falcon Light Pink](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-pink)
+- 🌸 [Falcon Light Pink](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-pink)
 
     <img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/light-pink.jpg" alt="Falcon Light Pink" style="border: 1px solid #CED0D6;">
 
-- [Falcon Light Yellow](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-yellow)
+- 🐣 [Falcon Light Yellow](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-yellow)
 
     <img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/light-yellow.jpg" alt="Falcon Light Yellow" style="border: 1px solid #CED0D6;">
 
-- [Falcon Light Grey](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-grey)
+- 🗞️ [Falcon Light Grey](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-grey)
 
     <img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/light-grey.jpg" alt="Falcon Light Grey" style="border: 1px solid #CED0D6;">
 
-- [Falcon Light Bean Green](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-bean-green)
+- 🍃 [Falcon Light Bean Green](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-bean-green)
 
     <img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/light-bean-green.png" alt="Falcon Light Bean Green" style="border: 1px solid #CED0D6;">
 
-- [Falcon Light Buff](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-buff)
+- 🐂 [Falcon Light Buff](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-buff)
 
     <img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/light-buff.png" alt="Falcon Light Buff" style="border: 1px solid #CED0D6;">
 
 ## Screenshot (Falcon Dark Themes)
 
-- [Falcon Dark](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-dark)
+- 🐈‍⬛ [Falcon Dark](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-dark)
 
     <img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/dark.jpg" alt="Falcon Dark" style="border: 1px solid #CED0D6;">
 
-- [Falcon Dark Green](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-dark-green)
+- 🦚 [Falcon Dark Green](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-dark-green)
 
     <img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/dark-green.jpg" alt="Falcon Dark Green" style="border: 1px solid #CED0D6;">
 
-- [Falcon Dark Blue](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-dark-blue)
+- 🌌 [Falcon Dark Blue](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-dark-blue)
 
     <img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/dark-blue.jpg" alt="Falcon Dark Blue" style="border: 1px solid #CED0D6;">
