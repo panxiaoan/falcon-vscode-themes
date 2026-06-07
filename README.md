@@ -10,6 +10,9 @@
 <strong>从 VS Code 插件市场下载该主题：</strong>
 [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=panxiaoan.themes-falcon-vscode)
 
+<strong>从 Open VSX 插件市场下载该主题(例如 Trae AI IDE 的用户就可以从这里安装)：</strong>
+[Open VSX Registry](https://open-vsx.org/extension/panxiaoan/themes-falcon-vscode)
+
 <img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/light-green.jpg" alt="Falcon Relaxing-Eyes Themes for VS Code" style="border: 1px solid #CED0D6;">
 
 <br/>
