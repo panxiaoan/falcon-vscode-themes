@@ -80,7 +80,7 @@ See [MIT License](./LICENSE) for detailed instructions.
 
 Using **JetBrains IDEs?** You can also experience the same theme there.
 
-👉 [Download from Jetbrains Marketplace](https://plugins.jetbrains.com/plugin/26026-falcon-relax-eyes-light-theme)
+👉 [Download from Jetbrains Marketplace](https://plugins.jetbrains.com/plugin/26026)
 
 Using **Zed?** You can also experience the same theme there.
 

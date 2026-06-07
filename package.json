@@ -1,6 +1,6 @@
 {
     "name": "themes-falcon-vscode",
-    "version": "3.0.2",
+    "version": "3.1.0",
     "displayName": "Falcon Relaxing-Eyes Themes - 护眼主题",
     "homepage": "https://github.com/panxiaoan/falcon-vscode-themes",
     "description": "A gentle, eye-friendly theme to protect your eyesight for VS Code (温和、对眼睛友好、保护视力的护眼主题)",
@@ -71,6 +71,11 @@
                 "path": "./theme/light/green.json"
             },
             {
+                "label": "Falcon Light Green(Islands)",
+                "uiTheme": "vs",
+                "path": "./theme/light/green-islands.json"
+            },
+            {
                 "label": "Falcon Light Bean Green",
                 "uiTheme": "vs",
                 "path": "./theme/light/bean-green.json"
@@ -104,6 +109,11 @@
                 "label": "Falcon Dark Green",
                 "uiTheme": "vs-dark",
                 "path": "./theme/dark/green.json"
+            },
+            {
+                "label": "Falcon Dark Green(Islands)",
+                "uiTheme": "vs-dark",
+                "path": "./theme/dark/green-islands.json"
             },
             {
                 "label": "Falcon Dark Blue",

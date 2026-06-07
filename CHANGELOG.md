@@ -1,5 +1,10 @@
 # Changelog
 
+## 3.1.0 (20260607)
+
+- Add：Falcon Light Green(Islands) for Trae IDE
+- Add：Falcon Dark Green(Islands) for Trae IDE
+
 ## 3.0.2 (20260520) → 🌹🌹🌹520 Day(May 20th is known as '520 Day' in China, because the pronunciation of '5-2-0' sounds
     like 'I love you' in Chinese.)
 
