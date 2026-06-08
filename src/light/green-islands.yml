@@ -8,6 +8,9 @@ semanticHighlighting: true
 green:
   base:
     - &BG_ISLANDS '#C5DEDD'
+    - &ACTIVE_BG_ISLANDS '#94acab'
+    - &ACTIVE_FG_ISLANDS '#ccf0ff'
+    - &INACTIVE_FG_ISLANDS '#4a5e84'
     - &BG '#E0F2F1'
     - &FG '#383A42'
     - &SELECTION '#AFDBB8'
@@ -149,13 +152,14 @@ colors:
 
   # Activity Bar
   activityBar.background        : *BG_ISLANDS # Activity Bar background color
-  activityBar.inactiveForeground: *COMMENT # Activity bar item foreground color when it is inactive
+  activityBar.foreground        : *ACTIVE_FG_ISLANDS # Activity bar foreground color (for example used for the icons)
+  activityBar.inactiveForeground: *INACTIVE_FG_ISLANDS # Activity bar item foreground color when it is inactive
   activityBar.dropBackground    : # Drag and drop feedback color for the Activity Bar items
-  activityBar.foreground        : *GREEN # Activity bar foreground color (for example used for the icons)
   activityBar.border            : *BORDER # Activity Bar border color with the Side Bar
-  activityBar.activeBorder      : *GREEN # Activity Bar indicator color
-  activityBar.activeBackground  : *SELECTION # Activity Bar indicator background color
-  activityBarBadge.background   : !alpha [*GREEN, 80] # Activity notification badge background color
+  activityBar.activeBorder      : *ACTIVE_BG_ISLANDS # *GREEN  Activity Bar indicator color
+  activityBar.activeForeground  : *ACTIVE_FG_ISLANDS
+  activityBar.activeBackground  : *ACTIVE_BG_ISLANDS # Activity Bar indicator background color
+  activityBarBadge.background   : !alpha [*GREEN, 95] # Activity notification badge background color
   activityBarBadge.foreground   : *WHITE # Activity notification badge foreground color
 
   # Side Bar
