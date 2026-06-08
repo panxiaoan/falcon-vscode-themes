@@ -38,6 +38,7 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 - 🗞️ [Falcon Light Grey](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-grey)
 - 🍃 [Falcon Light Bean Green](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-bean-green)
 - 🐂 [Falcon Light Buff](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-buff)
+- 🏝️ [Falcon Light Green(Islands) for Trae IDE](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-green-islands)
 - There is more coming soooooon!!!
 
 **Dark themes (for low-light environments):**
@@ -45,6 +46,7 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 - 🐈‍⬛ [Falcon Dark](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-dark)
 - 🦚 [Falcon Dark Green](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-dark-green)
 - 🌌 [Falcon Dark Blue](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-dark-blue)
+- 🏝️ [Falcon Dark Green(Islands) for Trae IDE](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-dark-green-islands)
 - There is more coming soooooon!!!
 
 ## Install
