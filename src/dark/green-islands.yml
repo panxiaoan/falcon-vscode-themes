@@ -335,7 +335,7 @@ colors:
   panelTitle.inactiveForeground: *COMMENT # Title color for the inactive panel
 
   # Status Bar Colors
-  statusBar.background                  : *BGDark # Standard Status Bar background color
+  statusBar.background                  : *BG_ISLANDS # Standard Status Bar background color
   statusBar.foreground                  : *FG # Status Bar foreground color
   statusBar.debuggingBackground         : *RED # Status Bar background color when a program is being debugged
   statusBar.debuggingForeground         : *BGDarker # Status Bar foreground color when a program is being debugged
@@ -346,7 +346,7 @@ colors:
   statusBarItem.prominentBackground     : *RED # Status Bar prominent items background color. Prominent items stand out from other Status Bar entries to indicate importance
   statusBarItem.prominentHoverBackground: *ORANGE # Status Bar prominent items background color when hovering. Prominent items stand out from other Status Bar entries to indicate importance
   statusBarItem.remoteForeground        : *FG # Background color for the remote indicator on the status bar
-  statusBarItem.remoteBackground        : *BGDark # Foreground color for the remote indicator on the status bar
+  statusBarItem.remoteBackground        : *BG_ISLANDS # Foreground color for the remote indicator on the status bar
   statusBar.border                      : *BORDER
 
   # Title Bar Colors (MacOS Only)
