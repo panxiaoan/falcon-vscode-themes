@@ -126,7 +126,7 @@ colors:
   # Scroll Bar Control
   scrollbar.shadow                : # Scroll Bar shadow to indicate that the view is scrolled
   scrollbarSlider.activeBackground: *SELECTION # Slider background color when active
-  scrollbarSlider.background      : *BORDER # Slider background color
+  scrollbarSlider.background      : *BGDarker # Slider background color
   scrollbarSlider.hoverBackground : *SELECTION # Slider background color when hovering
 
   # Badge
