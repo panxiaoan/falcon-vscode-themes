@@ -52,7 +52,7 @@ green:
     - &BGLight '#E0F2F1' # HSV (230   , 25.71, 27.45)
     - &BGDark '#E0F2F1' # HSV (234.55, 25   , 17.25)
     - &BGDarker '#c6e1e0' # HSV (234.55, 25   , 13   )
-    - &BORDER '#d6e8e7'
+    - &BORDER '#C6D6D6'
     - &STATIC '#871790'
     - &ANNOTATION '#9e880d'
     - &INDENT_GUIDE '#dae2e5'
@@ -176,7 +176,7 @@ colors:
   editorGroup.dropBackground        : *TAB_DROP_BG # Background color when dragging editors around
   editorGroupHeader.noTabsBackground: # Background color of the editor group title header when Tabs are disabled
   editorGroupHeader.tabsBackground  : *BGDark # Background color of the Tabs container
-  editorGroupHeader.tabsBorder      : # Border color of the editor group title header when tabs are enabled. Editor groups are the containers of editors
+  editorGroupHeader.tabsBorder      : *BORDER # Border color of the editor group title header when tabs are enabled. Editor groups are the containers of editors
 
   tab.activeBackground           : *BG # Active Tab background color
   tab.activeForeground           : *FG # Active Tab foreground color in an active group
