@@ -58,6 +58,7 @@ green:
     - &MATCHED_INDENT_GUIDE '#305862'
     - &LINE_NUMBER '#a3a5ba'
     - &SELECTED '#153F48'
+    - &SCROLLBAR_TRACK       '#0d3942'
 
 # User Interface (more info: https://code.visualstudio.com/docs/getstarted/theme-color-reference)
 colors:
@@ -124,10 +125,10 @@ colors:
 
   # Scroll Bar Control
   scrollbar.shadow                : # Scroll Bar shadow to indicate that the view is scrolled
+  scrollbar.background              : *SCROLLBAR_TRACK # Track background (new)
   scrollbarSlider.activeBackground: *TEMP_QUOTES # Slider background color when active
   scrollbarSlider.background      : *SELECTION # Slider background color
   scrollbarSlider.hoverBackground : *TEMP_QUOTES # Slider background color when hovering
-
   # Badge
   badge.foreground: *WHITE # Badge foreground color
   badge.background: !alpha [*GREEN, 80] # Badge background color

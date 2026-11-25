@@ -55,6 +55,9 @@ celadon:
     - &MATCHED_INDENT_GUIDE '#AFDBB8'
     - &SELECTED '#c7dae1'
     - &LINE_NUMBER '#aeb3c2'
+    - &SCROLLBAR_TRACK       '#dde5e8'
+    - &SCROLLBAR_THUMB       '#828fb1'
+    - &SCROLLBAR_HOVER       '#9ba6c1'
 
 # User Interface (more info: https://code.visualstudio.com/docs/getstarted/theme-color-reference)
 colors:
@@ -121,10 +124,10 @@ colors:
 
   # Scroll Bar Control
   scrollbar.shadow                : # Scroll Bar shadow to indicate that the view is scrolled
+  scrollbar.background              : *SCROLLBAR_TRACK # Track background (new)
   scrollbarSlider.activeBackground: *SELECTION # Slider background color when active
-  scrollbarSlider.background      : *BGDarker # Slider background color
-  scrollbarSlider.hoverBackground : *SELECTION # Slider background color when hovering
-
+  scrollbarSlider.background      : *SCROLLBAR_THUMB # Slider background color
+  scrollbarSlider.hoverBackground : *SCROLLBAR_HOVER # Slider background color when hovering
   # Badge
   badge.foreground: *WHITE # Badge foreground color
   badge.background: !alpha [*GREEN, 80] # Badge background color
