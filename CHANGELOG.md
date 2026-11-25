@@ -1,5 +1,10 @@
 # Changelog
 
+## 3.1.4 (20261125)
+
+- Add: Falcon Light Purple 薰衣草紫色护眼主题（#F3EEF9 背景 + #7B4FAE KEYWORD）
+- Add: scripts/package.js 一键构建+打包脚本
+
 ## 3.1.3 (20261120)
 
 - Fix: 修复滚动条的可见性
