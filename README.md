@@ -36,6 +36,7 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 - 🌸 [Falcon Light Pink](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-pink)
 - 🐣 [Falcon Light Yellow](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-yellow)
 - 🗞️ [Falcon Light Grey](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-grey)
+- 🪻 [Falcon Light Purple](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-purple), Thanks [Cidy 💐💐💐](https://github.com/Cidy20)
 - 🍃 [Falcon Light Bean Green](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-bean-green)
 - 🐂 [Falcon Light Buff](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-buff)
 - 🏝️ [Falcon Light Green(Islands) for Trae IDE](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-green-islands)
@@ -112,6 +113,10 @@ Using **Zed?** You can also experience the same theme there.
 - 🗞️ [Falcon Light Grey](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-grey)
 
     <img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/light-grey.jpg" alt="Falcon Light Grey" style="border: 1px solid #CED0D6;">
+
+- 🪻 [Falcon Light Purple](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-purple)
+
+    <img src="https://raw.githubusercontent.com/panxiaoan/falcon-vscode-themes/main/assets/light-purple.png" alt="Falcon Light Buff" style="border: 1px solid #CED0D6;">
 
 - 🍃 [Falcon Light Bean Green](https://vscodethemes.com/e/panxiaoan.themes-falcon-vscode/falcon-light-bean-green)
 
