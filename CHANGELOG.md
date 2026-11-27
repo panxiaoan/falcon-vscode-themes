@@ -1,5 +1,9 @@
 # Changelog
 
+## 3.1.5 (20261127)
+
+- Improve: 将 Cidy20(https://github.com/Cidy20) 提交 '薰衣草紫色护眼主题' 中滚动条 hover 与 thumb 配送调换，默认浅色
+
 ## 3.1.4 (20261125)
 
 - Add: Falcon Light Purple 薰衣草紫色护眼主题（#F3EEF9 背景 + #7B4FAE KEYWORD）

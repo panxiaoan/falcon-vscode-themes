@@ -57,8 +57,8 @@ purple:
     - &LINE_NUMBER '#aeb3c2'
     - &SELECTED '#DDD1EC'
     - &SCROLLBAR_TRACK       '#ece7f2'  # Scrollbar track background
-    - &SCROLLBAR_THUMB       '#9690a9'  # Scrollbar slider thumb
-    - &SCROLLBAR_HOVER       '#ada8bd'  # Scrollbar slider hover
+    - &SCROLLBAR_THUMB       '#ada8bd'  # Scrollbar slider thumb
+    - &SCROLLBAR_HOVER       '#9690a9'  # Scrollbar slider hover
 
 # User Interface (more info: https://code.visualstudio.com/docs/getstarted/theme-color-reference)
 colors:
